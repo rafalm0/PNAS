@@ -1,0 +1,106 @@
+﻿Michael Aizenman
+Berni J Alder
+David Aldous
+John B. Bell
+James O. Berger
+Marsha J. Berger
+Andrea L. Bertozzi
+Peter J. Bickel
+Maury D. Bramson
+Haim Brezis
+Emery N. Brown
+Emmanuel J. Candès
+Herman Chernoff
+Alexandre J. Chorin
+Joel E. Cohen
+Ronald R. Coifman
+Phillip Colella
+D. R. Cox
+Constantine M. Dafermos
+Ingrid Daubechies
+Aloisio Pessoa De Araujo
+Ronald De Vore
+James W. Demmel
+David L. Donoho
+Richard Durrett
+Bradley Efron
+Lawrence C. Evans
+Steven N. Evans
+Joseph Felsenstein
+Wendell H. Fleming
+Avner Friedman
+Jerome H. Friedman
+Drew Fudenberg
+Donald J. Geman
+Stuart Geman
+James Glimm
+Ralph E. Gomory
+Leo A. Goodman
+Leslie Greengard
+Robert M. Groves
+Trevor Hastie
+David Haussler
+Alan J. Hoffman
+Thomas J. R. Hughes
+Iain M Johnstone
+Peter Wilcox Jones
+Michael I. Jordan
+Richard M. Karp
+Guinevere Kauffmann
+Harry Kesten
+Gary King
+John F.C. Kingman
+Nancy Kopell
+Gregory F. Lawler
+Peter D. Lax
+Thomas Milton Liggett
+Andrew J Majda
+Jitendra Malik
+Charles F. Manski
+Robert D. Mare
+David W. McLaughlin
+Yves F. Meyer
+H. K. Moffatt
+David Mumford
+Susan A. Murphy
+Charles M. Newman
+Stanley Osher
+Jacob Palis
+George Papanicolaou
+Judea Pearl
+Yuval Peres
+Charles S. Peskin
+Hugh P Possingham
+Paul H. Rabinowitz
+Adrian E. Raftery
+Calyampudi Radhakrishna Rao
+Nancy M. Reid
+Vladimir Rokhlin
+Murray Rosenblatt
+Alvin E. Roth
+Donald B. Rubin
+Donald G. Saari
+Conjeeveram S. Seshadri
+James A. Sethian
+David O. Siegmund
+Burton H Singer
+Daniel A. Spielman
+Gilbert Strang
+Simon Tavare
+Elizabeth A. Thompson
+Robert J. Tibshirani
+Srinivasa S. R. Varadhan
+Sergio Verdú
+Kenneth W. Wachter
+Grace Wahba
+Larry Wasserman
+Michael S. Waterman
+Ruth J. Williams
+Robert B. Wilson
+Shmuel Winograd
+Wing Hung Wong
+Margaret H. Wright
+Horng-Tzer Yau
+William R. Young
+Bin Yu
+Carl de Boor

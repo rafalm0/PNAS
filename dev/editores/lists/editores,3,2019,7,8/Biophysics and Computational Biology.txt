@@ -1,0 +1,179 @@
+David A Agard
+Natalie G. Ahn
+Richard W. Aldrich
+David Baker
+Robert L. Baldwin
+Wolfgang Baumeister
+Adriaan Bax
+Lorena S. Beese
+Stephen J Benkovic
+Howard C. Berg
+James M Berger
+Bruce J Berne
+Francisco Bezanilla
+Peter J. Bickel
+Pamela J Bjorkman
+Steven M. Block
+Gary G. Borisy
+David Botstein
+Steven G Boxer
+Daniel Branton
+Patrick O. Brown
+Axel T Brunger
+Carlos Bustamante
+Curtis G. Callan, Jr.
+Charles R Cantor
+Donald Caspar
+Arup K. Chakraborty
+Jue Chen
+Wah Chiu
+Steven Chu
+John A. Clements
+G. Marius Clore
+James J. Collins
+Seth A. Darst
+William F. DeGrado
+David J DeRosier
+Johann Deisenhofer
+Richard E Dickerson
+Ken A. Dill
+Russell F. Doolittle
+Jennifer A. Doudna
+William A. Eaton
+Edward H. Egelman
+David S. Eisenberg
+Donald M. Engelman
+S. Walter Englander
+Michael D. Fayer
+Juli Feigon
+Alan R Fersht
+Graham R. Fleming
+Robert J Fletterick
+Joachim Frank
+Hans Frauenfelder
+Carl Frieden
+Richard A. Friesner
+Yuan-Cheng B. Fung
+KC (Chris) Christopher Garcia
+Martin Gellert
+Samuel H. Gellman
+Lila M. Gierasch
+Walter Gilbert
+Robert M Glaeser
+William A. Goddard III
+Yale E. Goldman
+Eric Gouaux
+Harry B. Gray
+Philip P. Green
+Leslie Greengard
+Angela M. Gronenborn
+Taekjip Ha
+Gordon G. Hammes
+Sharon Hammes-Schiffer
+Philip C. Hanawalt
+David Harel
+Stephen C. Harrison
+Stefan W. Hell
+Richard Henderson
+Wayne A Hendrickson
+Steven Henikoff
+Keith O. Hodgson
+Brian M. Hoffman
+Barry Honig
+Arthur L. Horwich
+Wayne Hubbell
+William L. Jorgensen
+Leemor Joshua-Tor
+Martin Karplus
+Sung-Hou Kim
+Michael L Klein
+Alexander M. Klibanov
+Brian K Kobilka
+Eugene V Koonin
+John Kuriyan
+Robert Langer
+Ramon Latorre
+Michael Levitt
+Albert Libchaber
+David J. Lipman
+George H. Lorimer
+Karolin Luger
+Roderick MacKinnon
+Susan Marqusee
+Brian W. Matthews
+Rowena G. Matthews
+Stephen L. Mayo
+J. Andrew McCammon
+Ann E McDermott
+J. Richard McIntosh
+Hartmut Michel
+Christopher Miller
+Kiyoshi Mizuuchi
+W. E. Moerner
+Peter B. Moore
+Erwin Neher
+Eva Nogales
+Erin K. O'Shea
+José N. Onuchic
+Carl O. Pabo
+Raúl Padrón
+Dinshaw J. Patel
+Charles S. Peskin
+Gregory A Petsko
+James C. Phillips
+Alexander Pines
+Thomas D. Pollard
+Joseph D. Puglisi
+Stephen R. Quake
+V. Ramakrishnan
+Alfred G. Redfield
+Douglas C Rees
+Aviv Regev
+Jane S. Richardson
+Timothy J. Richmond
+Andrej Sali
+Robert T. Sauer
+Harold A. Scheraga
+John W Sedat
+David E. Shaw
+Yigong Shi
+Boris I. Shraiman
+Robert G. Shulman
+Fred J. Sigworth
+Robert H. Singer
+Edward I. Solomon
+Timothy A. Springer
+Robert M. Stroud
+Lubert Stryer
+Michael F. Summers
+Attila Szabo
+Simon Tavare
+Susan S. Taylor
+Janet M. Thornton
+David A. Tirrell
+Chikashi Toyoshima
+Ronald D Vale
+Gerhard Wagner
+John E. Walker
+Arieh Warshel
+Clare M. Waterman
+Michael S. Waterman
+Watt W. Webb
+Sheldon Weinbaum
+William I. Weis
+Jonathan S. Weissman
+James A Wells
+Ian A. Wilson
+Cynthia Wolberger
+Richard Wolfenden
+Peter G Wolynes
+Wing Hung Wong
+Peter E. Wright
+Hao Wu
+Xiaoliang Sunney Xie
+Nieng Yan
+Wei Yang
+Ada Yonath
+Xiaowei Zhuang
+Ken E. van Holde
+Peter H. von Hippel

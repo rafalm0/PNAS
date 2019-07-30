@@ -1,0 +1,137 @@
+﻿Charles Alcock
+J Roger P. Angel
+W David Arnett
+Abhay V. Ashtekar
+Neta A. Bahcall
+Steven A. Balbus
+James M. Bardeen
+Barry C. Barish
+Gordon Baym
+S. Jocelyn Bell Burnell
+Charles L. Bennett
+Lars Bildsten
+Roger D. Blandford
+J. Richard Bond
+Michael E. Brown
+E. Margaret Burbidge
+Adam S Burrows
+Claude R. Canizares
+John E. Carlstrom
+Catherine Cesarsky
+David Charbonneau
+Roger A. Chevalier
+George W. Clark
+Judith G. Cohen
+Marshall H. Cohen
+Ramanath Cowsik
+Marc Davis
+Bruce T. Draine
+Alan Dressler
+Daniel Eisenstein
+Ronald D. Ekers
+Sandra M. Faber
+Andrew C. Fabian
+Julio A. Fernandez
+George B. Field
+Alexei V. Filippenko
+Wendy Freedman
+Kenneth C. Freeman
+Margaret J. Geller
+Reinhard Genzel
+Andrea M. Ghez
+Gary A. Glatzmaier
+Gabriela Gonzalez
+James E. Gunn
+Alan H. Guth
+Fiona A. Harrison
+Wick C. Haxton
+Martha P. Haynes
+Timothy M. Heckman
+Carl E. Heiles
+Lars E Hernquist
+Wayne Hu
+Icko Iben
+David C. Jewitt
+Vassiliki (Vicky) Kalogera
+Victoria M. Kaspi
+Guinevere Kauffmann
+K. I. Kellermann
+Robert C. Kennicutt
+Ivan R. King
+Robert P. Kirshner
+Steven E. Koonin
+Masatoshi Koshiba
+Chryssa Kouveliotou
+Shrinivas R. Kulkarni
+Rosine Lallement
+Judith L. Lean
+Andrei Linde
+Jonathan I. Lunine
+Roger Lynds
+Guido Münch
+Geoffrey W. Marcy
+John C. Mather
+Claire E. Max
+Michel G. Mayor
+Richard A. McCray
+Christopher F. McKee
+James M. Moran
+Ramesh Narayan
+Jeremiah P. Ostriker
+Lyman A. Page
+Eugene N. Parker
+P James E. Peebles
+Manuel Peimbert
+Arno A. Penzias
+Saul Perlmutter
+Gordon H. Pettengill
+William H. Press
+George W. Preston
+Anthony C. S. Readhead
+Martin J. Rees
+George H. Rieke
+Marcia J. Rieke
+Adam G. Riess
+Morton S. Roberts
+Luis F. Rodriguez
+Bernard Sadoulet
+Paul L. Schechter
+Brian P. Schmidt
+Maarten Schmidt
+Sara Seager
+Irwin I. Shapiro
+Stephen A. Shectman
+Frank H. Shu
+Joseph Silk
+George Smoot
+David N. Spergel
+Alexei Alexandrovich Starobinsky
+Charles C. Steidel
+Rashid A. Sunyaev
+Yasuo Tanaka
+Harvey D. Tananbaum
+Joseph H. Taylor
+Saul A. Teukolsky
+Kip S. Thorne
+Alan M. Title
+John L. Tonry
+Alar Toomre
+Scott Tremaine
+Michael S. Turner
+J. Anthony Tyson
+Andrzej Udalski
+C. Megan Urry
+Robert M. Wald
+Steven Weinberg
+Rainer Weiss
+William Welch
+Ray J. Weymann
+Simon D.M. White
+Clifford M. Will
+Robert W. Wilson
+Jack Leach Wisdom
+John A. Wood
+Stanford E. Woosley
+Edward L. Wright
+Matias Zaldarriaga
+Ewine F. van Dishoeck

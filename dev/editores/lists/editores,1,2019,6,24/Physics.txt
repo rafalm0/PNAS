@@ -1,0 +1,346 @@
+﻿G. 't Hooft
+L. F. Abbott
+Elihu Abrahams
+Eric G. Adelberger
+Stephen L. Adler
+Gabriel Aeppli
+Yakir Aharonov
+Guenter Ahlers
+Charles Alcock
+A. Paul Alivisatos
+Boris L. Altshuler
+Philip W. Anderson
+Eva Y Andrei
+Nima Arkani-Hamed
+W David Arnett
+N. W. Ashcroft
+Arthur Ashkin
+Abhay V. Ashtekar
+Alain Aspect
+David E. Aspnes
+Robert H. Austin
+D. D. Awschalom
+Vanderlei S. Bagnato
+Neta A. Bahcall
+Steven A. Balbus
+James M. Bardeen
+William A Bardeen
+Barry C. Barish
+Moungi G Bawendi
+Gordon Baym
+S. Jocelyn Bell Burnell
+George B. Benedek
+Charles L. Bennett
+James C. Bergquist
+Michael Berry
+R. Stephen Berry
+William Bialek
+Lars Bildsten
+Robert J. Birgeneau
+James Daniel Bjorken
+Roger D. Blandford
+Steven M. Block
+Felix Boehm
+J. Richard Bond
+Edouard Brézin
+Lewis M. Branscomb
+W F. Brinkman
+Louis E. Brus
+A. David Buckingham
+Philip H. Bucksbaum
+Claudio Bunster
+Adam S Burrows
+Robert L. Byer
+Curtis G. Callan, Jr.
+Claude R. Canizares
+John E. Carlstrom
+David Ceperley
+Catherine Cesarsky
+Paul M. Chaikin
+Moses H. W. Chan
+David Charbonneau
+Demetrios Christodoulou
+Steven Chu
+Noel A. Clark
+John Clarke
+Marvin L. Cohen
+Morrel H. Cohen
+Claude Cohen-Tannoudji
+Leon N Cooper
+Susan N. Coppersmith
+Paul B. Corkum
+Eric A. Cornell
+Ernest D. Courant
+Ramanath Cowsik
+George W. Crabtree
+F. Fleming Crim
+L. Davidovich
+J.C. Séamus Davis
+Marc Davis
+Stanley Deser
+Bruce T. Draine
+Persis S. Drell
+Robert C. Dynes
+Freeman J. Dyson
+Donald M. Eigler
+Daniel Eisenstein
+James P. Eisenstein
+Ronald D. Ekers
+Sandra M. Faber
+George B. Field
+Robert W. Field
+Alexei V. Filippenko
+Daniel S. Fisher
+Matthew P. A. Fisher
+Vladimir E. Fortov
+E. Norval Fortson
+T Kenneth Fowler
+Eduardo Fradkin
+Hans Frauenfelder
+Michael H. Freedman
+Wendy Freedman
+Igor B. Frenkel
+Jerome I. Friedman
+Gerald Gabrielse
+Mary K. Gaillard
+Richard L. Garwin
+S. James Gates Jr.
+A. K. Geim
+Margaret J. Geller
+Howard Georgi
+Andrea M. Ghez
+Fabiola Gianotti
+Steven M. Girvin
+Sheldon L. Glashow
+Nigel Goldenfeld
+Allen M. Goldman
+Jerry P. Gollub
+Gabriela Gonzalez
+Laura H Greene
+David J. Gross
+Martin Gruebele
+Francisco Guinea
+Alan H. Guth
+Theodor W. Hänsch
+Taekjip Ha
+Willy Haeberli
+Frederick Duncan M. Haldane
+John L. Hall
+Bertrand I. Halperin
+William Happer
+Serge Haroche
+Stephen E. Harris
+Fiona A. Harrison
+James Hartle
+Jeffrey A. Harvey
+Wick C. Haxton
+Arthur F. Hebard
+Alan J. Heeger
+Stefan W. Hell
+Lars E Hernquist
+Dudley Herschbach
+Harald F. Hess
+Karl Hess
+Helmut Hofer
+John J. Hopfield
+Gary T Horowitz
+Wayne Hu
+David A Huse
+Jisoon Ihm
+Joseph Incandela
+Barbara V. Jacak
+Roman Jackiw
+Arthur M. Jaffe
+John D. Joannopoulos
+Victor Kac
+Vassiliki (Vicky) Kalogera
+Charles L. Kane
+Aharon Kapitulnik
+David B. Kaplan
+Henry C. Kapteyn
+Mehran Kardar
+Victoria M. Kaspi
+Marc A. Kastner
+K. I. Kellermann
+Robert C. Kennicutt
+Wolfgang Ketterle
+H. J. Kimble
+Toichiro Kinoshita
+Steven A. Kivelson
+Igor R. Klebanov
+Miles V. Klein
+Daniel Kleppner
+Jun Kondo
+Steven E. Koonin
+Masatoshi Koshiba
+J. Michael Kosterlitz
+Chryssa Kouveliotou
+Anne L'Huillier
+James S. Langer
+Robert B. Laughlin
+David M. Lee
+Tsung-Dao Lee
+Yuan T. Lee
+Anthony Leggett
+Stanislas Leibler
+Stephen R. Leone
+Herbert Levine
+Albert Libchaber
+Elliott H. Lieb
+Andrei Linde
+W. Carl Lineberger
+Andrea J. Liu
+Steven G. Louie
+Tom C. Lubensky
+Mikhail D. Lukin
+K. Alex Müller
+Allan H MacDonald
+Juan Maldacena
+M. Brian Maple
+Charles M. Marcus
+John C. Mather
+Nergis Mavalvala
+Claire E. Max
+Arthur B. McDonald
+Paul L. McEuen
+Christopher F. McKee
+N. David Mermin
+Christopher Monroe
+James M. Moran
+Ben R. Mottelson
+Shaul Mukamel
+Margaret M. Murnane
+Sidney R. Nagel
+Ramesh Narayan
+Ann E. Nelson
+David R. Nelson
+Risto Nieminen
+David R. Nygren
+Piermaria J. Oddone
+N. Phuan Ong
+José N. Onuchic
+Douglas D. Osheroff
+Jeremiah P. Ostriker
+Lyman A. Page
+Robert B. Palmer
+Giorgio Parisi
+Eugene N. Parker
+S. S. P. Parkin
+Claudio Pellegrini
+John B. Pendry
+Roger Penrose
+Saul Perlmutter
+Loren N. Pfeiffer
+William D. Phillips
+Alexandre Polyakov
+Charles Young Prescott
+John Preskill
+David E. Pritchard
+Tuija Pulkkinen
+Stephen R. Quake
+Helen R Quinn
+Karin M Rabe
+Lisa J Randall
+C. N. R. Rao
+Nicholas Read
+Anthony C. S. Readhead
+Alfred G. Redfield
+John D. Reppy
+Paul L. Richards
+Geraldine L. Richmond
+George H. Rieke
+Marcia J. Rieke
+Adam G. Riess
+R.G. Hamish Robertson
+Carlo Rubbia
+Angel Rubio
+Malvin A. Ruderman
+David P. Ruelle
+Subir Sachdev
+Bernard Sadoulet
+N P Samios
+Jack Sandweiss
+Myriam P. Sarachik
+Douglas J. J. Scalapino
+Hans Joachim Schellnhuber
+John P. Schiffer
+Brian P. Schmidt
+Robert J. Schoelkopf
+J Robert Schrieffer
+John H. Schwarz
+Frank J. Sciulli
+Marlan O. Scully
+Sara Seager
+Mordechai (Moti) Segev
+Nathan Seiberg
+Lu Jeu Sham
+Irwin I. Shapiro
+Zhi-xun Shen
+Stephen H Shenker
+Mikhail Shifman
+Melvyn J. Shochet
+Boris I. Shraiman
+Eric D. Siggia
+Joseph Silk
+James H. Simons
+George Smoot
+Dam Thanh Son
+Thomas C. Spencer
+David N. Spergel
+Alexei Alexandrovich Starobinsky
+J Steinberger
+Paul J. Steinhardt
+Andrew Strominger
+Harry Suhl
+Leonard Susskind
+Harry L. Swinney
+David W. Tank
+Saul A. Teukolsky
+Kip S. Thorne
+Maury Tigner
+Samuel C. C. Ting
+Alan M. Title
+Alvin V. Tollestrup
+John L. Tonry
+Erio Tosatti
+Scott Tremaine
+George H. Trilling
+Donald G. Truhlar
+Michael S. Turner
+J. Anthony Tyson
+C. Megan Urry
+Cumrun Vafa
+Richard P. Van Duyne
+Dale Van Harlingen
+David Vanderbilt
+Umesh V. Vazirani
+Martinus Veltman
+Robert M. Wald
+Kenneth M. Watson
+Steven Weinberg
+Rainer Weiss
+Xiao-Gang Wen
+Simon D.M. White
+Steven White
+Carl E. Wieman
+Frank A. Wilczek
+Clifford M. Will
+Robert W. Wilson
+David J. Wineland
+Mark B. Wise
+Michael S. Witherell
+Edward Witten
+Stanford E. Woosley
+Edward L. Wright
+Maw-Kuen Wu
+Chen Ning Yang
+S-T Yau
+Jun Ye
+Matias Zaldarriaga
+Alexander B. Zamolodchikov
+Anton Zeilinger
+Jie Zhang
+Shou-Cheng Zhang
+Guangzhao Zhou
+Peter Zoller
+George Zweig

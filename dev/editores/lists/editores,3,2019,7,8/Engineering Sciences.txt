@@ -1,0 +1,116 @@
+Jan D. Achenbach
+Andreas Acrivos
+Kristi S. Anseth
+Frances H Arnold
+Arthur Ashkin
+Bishnu S. Atal
+David H. Auston
+Zdeněk P. Bažant
+Chunli Bai
+Frank S. Bates
+Alexis T. Bell
+Timothy Berners-Lee
+Sangeeta N. Bhatia
+R Byron Bird
+Edward S. Boyden
+William B. Bridges
+Frederick P. Brooks
+Norman H. Brooks
+Robert A. Brown
+Arthur E. Bryson
+Robert L. Byer
+Federico Capasso
+Shu Chien
+Alfred Y. Cho
+Phillip Colella
+James J. Collins
+Mark E. Davis
+Stephen H. Davis
+Anthony J. DeMaria
+Joseph M. DeSimone
+Pablo G. Debenedetti
+Persis S. Drell
+James A. Dumesic
+Leo Esaki
+Roger W, Falcone
+Martin M. Fejer
+G. David Forney
+Stephen R. Forrest
+T Kenneth Fowler
+L B Freund
+James G. Fujimoto
+Yuan-Cheng B. Fung
+Robert G. Gallager
+Huajian Gao
+Richard L. Garwin
+James F. Gibbons
+Sharon C. Glotzer
+Arthur C. Gossard
+Roy W. Gould
+Steve Granick
+Paula T. Hammond
+Stephen E. Harris
+John L. Hennessy
+Karl Hess
+John P. Hirth
+Nick Holonyak
+Evelyn L. Hu
+Thomas J. R. Hughes
+John W. Hutchinson
+Sumio Iijima
+Erich P. Ippen
+Rakesh K Jain
+Klavs F. Jensen
+William L. Johnson
+Robert E. Kahn
+Thomas Kailath
+Wolfgang Kaiser
+Herwig Kogelnik
+Herbert Kroemer
+Sang Yup Lee
+Johanna M. H. Levelt Sengers
+Jennifer A. Lewis
+Aizhen Li
+Raghunath A. Mashelkar
+Krzysztof Matyjaszewski
+Carver A. Mead
+David A.B. Miller
+Chad A Mirkin
+James K. Mitchell
+H. K. Moffatt
+Parviz Moin
+Jeffrey S. Moore
+Cherry A. Murray
+Roddam Narasimha
+Jens Nielsen
+William D. Nix
+Morton B. Panish
+S. S. P. Parkin
+C. Kumar N. Patel
+David A. Patterson
+Michael E. Phelps
+H. Vincent Poor
+John M. Prausnitz
+Ronald F. Probstein
+James R. Rice
+Rebecca R. Richards-Kortum
+Eric Rignot
+Andrea Rinaldo
+John A. Rogers
+Ares Rosakis
+William R. Schowalter
+Marlan O. Scully
+Mordechai (Moti) Segev
+John H. Seinfeld
+James A. Sethian
+Charles V. Shank
+Katepalli R. Sreenivasan
+Howard A Stone
+Zhigang Suo
+Subra Suresh
+Matthew V. Tirrell
+Andrew J. Viterbi
+Sheldon Weinbaum
+Eli Yablonovitch
+Amnon Yariv
+Jacob Ziv

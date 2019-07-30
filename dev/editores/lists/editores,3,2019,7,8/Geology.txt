@@ -1,0 +1,128 @@
+A. M. Celâl Şengör
+Claude J. Allegre
+Clarence R. Allen
+Richard B. Alley
+Walter Alvarez
+Zhi-Sheng An
+Brian F. Atwater
+Tanya M. Atwater
+Jillian F. Banfield
+Edouard Bard
+Michael L. Bender
+David Bercovici
+W A. Berggren
+Samuel A. Bowring
+Edward A. Boyle
+Susan L. Brantley
+Douglas W. Burbank
+B. Clark Burchfiel
+Donald E. Canfield
+Richard W. Carlson
+Katharine V. Cashman
+Thure E Cerling
+Robert G. Coleman
+Douglas S. Coombs
+G. Brent Dalrymple
+Donald J. DePaolo
+George H. Denton
+John F. Dewey
+James H. Dieterich
+William E. Dietrich
+Patricia M. Dove
+Thomas Dunne
+R. Lawrence Edwards
+James R. Ehleringer
+John M. Eiler
+W. G. Ernst
+Paul G. Falkowski
+Kenneth A. Farley
+James Farquhar
+Marilyn L. Fogel
+Donald W. Forsyth
+Katherine H. Freeman
+George C. Frison
+John P. Grotzinger
+Timothy L. Grove
+Alexander N. Halliday
+T. Mark Harrison
+Stanley R. Hart
+C Vance Haynes
+Russell J. Hemley
+Paul F. Hoffman
+Albrecht W. Hofmann
+Kenneth J. Hsu
+David Jablonski
+Raymond Jeanloz
+Thomas H. Jordan
+Jean Jouzel
+Panagiotis Karkanas
+James F. Kasting
+Peter B. Kelemen
+James P. Kennett
+Dennis V Kent
+Susan W. Kieffer
+Andrew H. Knoll
+David L. Kohlstedt
+Ikuo Kushiro
+Arthur H. Lachenbruch
+Kurt Lambeck
+Charles H. Langmuir
+Thorne Lay
+Meave G. Leakey
+Michael Manga
+Ho-Kwang Mao
+Dan P. McKenzie
+Marcia McNutt
+Henry Jay J. Melosh
+James K. Mitchell
+François M.M. Morel
+Ellen S. Mosley-Thompson
+Alexandra Navrotsky
+Paul E. Olsen
+E. Ronald Oxburgh
+Gary Parker
+Walter C. Pitman
+Terry A. Plank
+Frank Press
+Raymond A. Price
+Victor A. Ramos
+John G. Ramsay
+Maureen E. Raymo
+Frank M. Richter
+Barbara A. Romanowicz
+Ares Rosakis
+Roberta L. Rudnick
+David T. Sandwell
+Benjamin D. Santer
+J. William Schopf
+Gerald Schubert
+John G. Sclater
+Paul Segall
+Jeffrey P. Severinghaus
+Peter M. Shearer
+Kerry Sieh
+Leon T. Silver
+Norman H. Sleep
+Nikolai V. Sobolev
+Sean C. Solomon
+Steven M. Stanley
+David J. Stevenson
+Edward Stolper
+John Suppe
+Lynn R. Sykes
+Paul Tapponnier
+Lisa Tauxe
+Hugh P. Taylor
+Stuart Ross Taylor
+Lonnie G. Thompson
+Seiya Uyeda
+James W. Valentine
+John W. Valley
+John Vidale
+David Walker
+Bruce Watson
+Cathy Whitlock
+Peter J. Wyllie
+James C Zachos
+Mary Lou Zoback
+Maria T. Zuber

@@ -1,0 +1,87 @@
+﻿Daron Acemoglu
+George A Akerlof
+Orley C. Ashenfelter
+Susan Athey
+Robert J. Aumann
+Robert H. Bates
+Brian J. L. Berry
+Jagdish N. Bhagwati
+William A. Brock
+Gary E Chamberlain
+Raj Chetty
+John S. Chipman
+Cyrus C.y. Chu
+Maureen L. Cropper
+Partha Sarathi Dasgupta
+Aloisio Pessoa De Araujo
+Angus Deaton
+Douglas W. Diamond
+Peter A. Diamond
+Avinash K. Dixit
+Jacques Drèze
+Esther Duflo
+Greg J. Duncan
+Richard A. Easterlin
+Robert F. Engle
+Amy N. Finkelstein
+Drew Fudenberg
+Allan Gibbard
+Claudia Goldin
+Robert Ernest Hall
+Lars Peter Hansen
+Arnold C. Harberger
+Kathleen Mullan Harris
+Oliver Hart
+Geoffrey M. Heal
+James J. Heckman
+Matthew O. Jackson
+Ronald Winthrop Jones
+Dale W. Jorgenson
+Lawrence F. Katz
+Catherine L. Kling
+Janos Kornai
+David M. Kreps
+Anne O. Krueger
+Robert E. Lucas
+Charles F. Manski
+Andreu Mas-Colell
+Eric S Maskin
+Daniel L. McFadden
+Robert C. Merton
+Paul R. Milgrom
+Roger B Myerson
+Marc Nerlove
+W. Nordhaus
+Ariel S. Pakes
+Christos Papadimitriou
+Edmund S. Phelps
+Prabhu L Pingali
+Charles R. Plott
+Stephen Polasky
+James M. Poterba
+Edward C. Prescott
+Roy Radner
+Kenneth S Rogoff
+Alvin E. Roth
+Donald B. Rubin
+Donald G. Saari
+Agnar Sandmo
+Thomas J. Sargent
+Jose A. Scheinkman
+Christopher A. Sims
+V. Kerry Smith
+Vernon L. Smith
+Robert M. Solow
+Hugo F. Sonnenschein
+T N Srinivasan
+Joseph E. Stiglitz
+Nancy L. Stokey
+Lawrence H. Summers
+Richard H. Thaler
+Jean Tirole
+Robert M. Townsend
+Barry R. Weingast
+Oliver E. Williamson
+Robert B. Wilson
+Anastasios Xepapadeas
+Yu Xie

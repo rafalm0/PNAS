@@ -1,0 +1,75 @@
+﻿Edward Adelson
+Leonard M. Adleman
+Manindra Agrawal
+Frances E. Allen
+Sanjeev Arora
+Bishnu S. Atal
+C. Gordon Bell
+Charles H. Bennett
+Marsha J. Berger
+Timothy Berners-Lee
+Manuel Blum
+Lewis M. Branscomb
+Frederick P. Brooks
+Stephen A. Cook
+James W. Demmel
+Cynthia Dwork
+G. David Forney
+Alexander Stewart Fotheringham
+Robert G. Gallager
+Shafrira Goldwasser
+Michael F Goodchild
+Ronald L. Graham
+Robert B. Griffiths
+Juris Hartmanis
+John L. Hennessy
+Tony Hoare
+John E. Hopcroft
+Michael I. Jordan
+Robert E. Kahn
+Thomas Kailath
+Richard M. Karp
+Jon Kleinberg
+Donald E. Knuth
+Leslie B. Lamport
+Butler W. Lampson
+Frank Thomson Leighton
+Barbara H. Liskov
+Laszlo Lovasz
+Nancy A. Lynch
+Jitendra Malik
+Kurt Mehlhorn
+Silvio Micali
+Parviz Moin
+Christos Papadimitriou
+David A. Patterson
+Judea Pearl
+H. Vincent Poor
+John Preskill
+William H. Press
+Michael O. Rabin
+Ronald L. Rivest
+Robert E Schapire
+Dana S. Scott
+Terrence J. Sejnowski
+Adi Shamir
+Peter W. Shor
+Daniel A. Spielman
+Madhu Sudan
+Ivan E. Sutherland
+Eva Tardos
+Robert E. Tarjan
+Ken Thompson
+Leslie G. Valiant
+Moshe Y. Vardi
+Umesh V. Vazirani
+Sergio Verdú
+Andrew J. Viterbi
+Grace Wahba
+Larry Wasserman
+Avi Wigderson
+Shmuel Winograd
+Margaret H. Wright
+Mihalis Yannakakis
+Andrew Chi-Chih Yao
+Jacob Ziv

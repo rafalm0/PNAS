@@ -1,0 +1,110 @@
+﻿L. F. Abbott
+Huda Akil
+Thomas D. Albright
+Richard A. Andersen
+Dora E Angelaki
+Carol A. Barnes
+Linda M. Bartoshuk
+Denis Baylor
+Marlene Behrmann
+Ursula Bellugi
+Michael V. L. Bennett
+Emilio Bizzi
+Anders Björklund
+Randolph Blake
+Emery N. Brown
+Linda B. Buck
+Gyorgy Buzsáki
+Jean-Pierre Changeux
+Leon N Cooper
+Yang Dan
+Karl Deisseroth
+Winfried Denk
+Robert Desimone
+Chris Q Doe
+John E Dowling
+Catherine Dulac
+Fred H. Gage
+Charles R Gallistel
+Michael S. Gazzaniga
+Wilson S. Geisler
+Charles D Gilbert
+David D. Ginty
+Michael E. Goldberg
+Corey S. Goodman
+Norma Graham
+Ann M. Graybiel
+Peter Hagoort
+Riitta Hari
+David J. Heeger
+John G. Hildebrand
+Ralph L Holloway
+Richard L. Huganir
+Masao Ito
+Ivan Izquierdo
+Jon H. Kaas
+Eric R. Kandel
+Nancy Kanwisher
+Harvey J. Karten
+Eric I. Knudsen
+Nancy Kopell
+Edward A. Kravitz
+Patricia K. Kuhl
+Lynn T. Landmesser
+Joseph E. LeDoux
+Willem J. M. Levelt
+Jeff W. Lichtman
+Rodolfo R. Llinas
+Nikos K. Logothetis
+Liqun Luo
+Robert Malenka
+Roberto Malinow
+Eve Marder
+James L. McClelland
+Susan K. McConnell
+Bruce S McEwen
+James L. McGaugh
+Michael M. Merzenich
+David E. Meyer
+Brenda Milner
+Mortimer Mishkin
+Edvard I. Moser
+May-Britt Moser
+Tony Movshon
+William T. Newsome
+Fernando Nottebohm
+John O'Keefe
+Donald Pfaff
+Mu-ming Poo
+Dale Purves
+Marcus E Raichle
+Pasko Rakic
+Robert Rescorla
+Giacomo Rizzolatti
+Ranulfo Romo
+Joshua R Sanes
+Daniel L. Schacter
+Peter H Schiller
+Terrence J. Sejnowski
+Carla J Shatz
+Richard M. Shiffrin
+Wolf Singer
+George Sperling
+Nicholas C. Spitzer
+Larry R Squire
+Charles F. Stevens
+Peter L. Strick
+Michael P Stryker
+Nobuo Suga
+Karel Svoboda
+Larry W. Swanson
+Joseph S. Takahashi
+Shelley E Taylor
+Susumu Tonegawa
+Endel Tulving
+Leslie G. Ungerleider
+Leslie G. Valiant
+David C. Van Essen
+Allan R. Wagner
+Torsten N. Wiesel
+Robert H. Wurtz
